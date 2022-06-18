@@ -80,6 +80,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Runnig App
 
+- [Link](http://udagram593666028033.s3-website-us-east-1.amazonaws.com/)
 ![screenshot](doc/app.jpg)
 
 
