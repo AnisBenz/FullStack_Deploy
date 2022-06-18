@@ -33,6 +33,8 @@ Provision the necessary AWS services needed for running the application:
 1. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install`. After installation is done start the api in dev mode with `npm run dev`.
 1. Without closing the terminal in step 1, navigate to the udagram-frontend `cd starter/udagram-frontend` to intall the node_modules `npm install`. After installation is done start the api in dev mode with `npm run start`.
 
+Note : For more details take a look at the docs folder
+
 ## Testing
 
 This project contains two different test suite: unit tests and End-To-End tests(e2e). Follow these steps to run the tests.
@@ -51,46 +53,18 @@ Unit tests are using the Jasmine Framework.
 
 The e2e tests are using Protractor and Jasmine.
 
-### Architecture:
-
-![screenshot](doc/udagram.jpg)
-![screenshot](doc/pipelineschema.jpg)
-
-# Screenshots:
-
-## RDS
-
-![screenshot](doc/rds.jpg)
-
-## Elastic Beanstalk
-
-![screenshot](doc/ebs.jpg)
-
-## S3
-
-![screenshot](doc/s3Front.jpg)
-
-## Pipeline
-
-![screenshot](doc/env.jpg)
-![screenshot](doc/pipeline.jpg)
-![screenshot](doc/build.jpg)
-![screenshot](doc/deploy.jpg)
-
 ## Running App
 
 - [Access the application](http://udagram593666028033.s3-website-us-east-1.amazonaws.com/)
 
----
-
-![screenshot](doc/app.jpg)
-
+![screenshot](docs/pictures/app.jpg)
 
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
+- [Postgresql](https://www.postgresql.org/) - Postgresql Database
 
 # Author
 
