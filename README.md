@@ -58,7 +58,7 @@ The e2e tests are using Protractor and Jasmine.
 ![screenshot](doc/udagram.jpg)
 ![screenshot](doc/pipelineschema.jpg)
 
-### Screenshots:
+# Screenshots:
 
 ## RDS
 
