@@ -1,7 +1,5 @@
 # Hosting a Full-Stack Application
 
----
-
 A newly developed Full-Stack application built for a retailer and deployed to AWS that is available to customers
 
 # Udagram
@@ -78,9 +76,12 @@ The e2e tests are using Protractor and Jasmine.
 ![screenshot](doc/build.jpg)
 ![screenshot](doc/deploy.jpg)
 
-## Runnig App
+## Running App
 
-- [Link](http://udagram593666028033.s3-website-us-east-1.amazonaws.com/)
+- [Access the application](http://udagram593666028033.s3-website-us-east-1.amazonaws.com/)
+
+---
+
 ![screenshot](doc/app.jpg)
 
 
