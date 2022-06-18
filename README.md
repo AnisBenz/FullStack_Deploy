@@ -72,6 +72,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Pipeline
 
+![screenshot](doc/env.jpg)
 ![screenshot](doc/pipeline.jpg)
 ![screenshot](doc/build.jpg)
 ![screenshot](doc/deploy.jpg)
