@@ -28,6 +28,6 @@ The application have `udagram/udagram-front` for the frontend and `udagram/udagr
 ### Pipeline
 
 ![screenshot](pictures/env.jpg)
-![screenshot](pipeline.jpg)
+![screenshot](pictures/pipeline.jpg)
 ![screenshot](pictures/build.jpg)
 ![screenshot](pictures/deploy.jpg)
